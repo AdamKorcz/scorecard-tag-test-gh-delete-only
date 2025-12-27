@@ -2,4 +2,4 @@
 
 Repository for testing Scorecard tag protection.
 
-The repo has 1 ruleset that targets `refs/tags/v*` with "Block deletions" and "Block force pushes".
+The repo has 1 ruleset that targets `refs/tags/v*` with "Restrict deletions" and "Block force pushes".
